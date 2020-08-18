@@ -12,11 +12,11 @@
 
 ### 1.课程大纲
 
-0. introduction
+### Introduction
 
 The Nature and Explanatory Ambitions of Metaethics
 
-Tristram McPherson and David Plunkett
+[[video]](https://www.bilibili.com/video/BV1dV411U7iQ/)
 
 #### Part I: Central Organizing Options in Metaethics
 
